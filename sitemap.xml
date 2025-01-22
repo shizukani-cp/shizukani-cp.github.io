@@ -8,75 +8,94 @@
 
 
 <url>
-  <loc>https://shizukani-cp.github.io/</loc>
-  <lastmod>2025-01-22T06:47:07+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://shizukani-cp.github.io/blog/</loc>
-  <lastmod>2025-01-20T08:56:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://shizukani-cp.github.io/htmlapps/</loc>
-  <lastmod>2024-12-31T07:41:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shizukani-cp.github.io/newscast/</loc>
-  <lastmod>2025-01-22T05:49:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shizukani-cp.github.io/blog/index.html</loc>
-  <lastmod>2025-01-20T08:56:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shizukani-cp.github.io/blog/articles/20240803/</loc>
-  <lastmod>2025-01-20T08:56:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shizukani-cp.github.io/basestyle.css/</loc>
-  <lastmod>2024-12-31T03:00:31+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/htmlapps/clicker/main.html</loc>
-  <lastmod>2024-12-31T07:41:44+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/htmlapps/kusopedia/kusopedia.html</loc>
-  <lastmod>2024-12-31T07:41:44+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/htmlapps/memo/main.html</loc>
-  <lastmod>2024-12-31T07:41:44+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/htmlapps/typing/main.html</loc>
-  <lastmod>2024-12-31T07:41:44+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/htmlapps/noise/noise.html</loc>
-  <lastmod>2024-12-31T07:41:44+00:00</lastmod>
-  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/basestyle.css/</loc>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/basestyle.css/example.html</loc>
-  <lastmod>2024-12-31T03:00:31+00:00</lastmod>
-  <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://shizukani-cp.github.io/htmlapps/typing/score.html</loc>
-  <lastmod>2024-12-31T07:41:44+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://shizukani-cp.github.io/blog/</loc>
 </url>
-
+<url>
+  <loc>https://shizukani-cp.github.io/newscast/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20240803/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20240807/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20240816/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20240925/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241113/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241117/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241129/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241130/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241201/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241208/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241209/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241224/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241226/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20241229/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250110/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250112/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250119/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250120/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250124/</loc>
+</url>
 
 </urlset>
