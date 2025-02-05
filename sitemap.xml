@@ -11,16 +11,16 @@
   <loc>https://shizukani-cp.github.io/htmlapps/</loc>
 </url>
 <url>
-  <loc>https://shizukani-cp.github.io/htmlapps/clicker/main.html</loc>
+  <loc>https://shizukani-cp.github.io/htmlapps/clicker/</loc>
 </url>
 <url>
-  <loc>https://shizukani-cp.github.io/htmlapps/kusopedia/kusopedia.html</loc>
+  <loc>https://shizukani-cp.github.io/htmlapps/kusopedia/</loc>
 </url>
 <url>
-  <loc>https://shizukani-cp.github.io/htmlapps/memo/main.html</loc>
+  <loc>https://shizukani-cp.github.io/htmlapps/memo/</loc>
 </url>
 <url>
-  <loc>https://shizukani-cp.github.io/htmlapps/typing/main.html</loc>
+  <loc>https://shizukani-cp.github.io/htmlapps/typing/</loc>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/htmlapps/noise/noise.html</loc>
@@ -36,9 +36,6 @@
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/newscast/</loc>
-</url>
-<url>
-  <loc>https://shizukani-cp.github.io/blog/</loc>
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/blog/articles/20240803/</loc>
@@ -96,6 +93,15 @@
 </url>
 <url>
   <loc>https://shizukani-cp.github.io/blog/articles/20250124/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250204/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250207/</loc>
+</url>
+<url>
+  <loc>https://shizukani-cp.github.io/blog/articles/20250214/</loc>
 </url>
 
 </urlset>
